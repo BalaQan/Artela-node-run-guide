@@ -17,9 +17,5 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 
 #First, run the script with the following command:
 
-wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
-
-
-
-wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
+* wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
 
