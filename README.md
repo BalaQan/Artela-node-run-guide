@@ -14,3 +14,9 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 8x CPU
 16GB RAM
 1TB storage (SSD or NVME)
+
+#First, run the script with the following command:
+
+wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
+
+
