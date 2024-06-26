@@ -17,5 +17,11 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 
 #First, run the script with the following command:
 
-* wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
+  wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
 
+#Enter the number 1 and click enter.
+#Select one name for your node and click enter.
+#Wait for the installation to finish.
+#Now enter the number 2 and click enter.
+#Write emportant information such as address and private key.
+#Now enter the number 4 and click enter to exit.
