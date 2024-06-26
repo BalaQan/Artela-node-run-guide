@@ -20,3 +20,6 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
 
 
+
+wget https://raw.githubusercontent.com/freshe4qa/artela/main/artela.sh && chmod +x artela.sh && ./artela.sh
+
