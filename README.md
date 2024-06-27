@@ -28,6 +28,6 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 
 *Enter the following command:
 
-  source $HOME/.bash_profile
+   source $HOME/.bash_profile
   
-  artelad status 2>&1 | jq .SyncInfo
+   artelad status 2>&1 | jq .SyncInfo
