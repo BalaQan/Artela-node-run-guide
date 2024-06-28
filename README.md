@@ -31,3 +31,6 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
    source $HOME/.bash_profile
   
    artelad status 2>&1 | jq .SyncInfo
+   
+#Whenever your node is synced, It means (Catching Up = False) and every Blocks synced with network block then You can go to the next step!
+#You can check your node status here: https://betanet-scan.artela.network/
