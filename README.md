@@ -34,3 +34,11 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
    
 #Whenever your node is synced, It means (Catching Up = False) and every Blocks synced with network block then You can go to the next step!
 #You can check your node status here: https://betanet-scan.artela.network/
+
+#Enter the following command to check:
+
+artelad status 2>&1 | jq .SyncInfo
+
+#If the movement to the front of the blocks is slow, restart the node with the following command:
+
+sudo systemctl restart artelad
