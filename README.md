@@ -42,3 +42,5 @@ artelad status 2>&1 | jq .SyncInfo
 #If the movement to the front of the blocks is slow, restart the node with the following command:
 
 sudo systemctl restart artelad
+
+#The blocks should now be synced!
