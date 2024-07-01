@@ -44,3 +44,7 @@ artelad status 2>&1 | jq .SyncInfo
 sudo systemctl restart artelad
 
 #The blocks should now be synced!
+
+#Now, with the following command and replacing the Artela wallet address, Get the EVM wallet address in EIP 55 format and copy it.
+
+artelad debug addr <YOUR_ART_ADDRESS>  
