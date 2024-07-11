@@ -53,7 +53,8 @@ artelad debug addr <YOUR_ART_ADDRESS>
 
 https://discord.com/invite/artela
 
-#Click the command below to check the balance:
+#Click the command below to check the balance(Instead of $ARTELA_WALLET_ADDRESS, put the wallet address that we created in the first step):
 
 artelad query bank balances $ARTELA_WALLET_ADDRESS   
 
+#
