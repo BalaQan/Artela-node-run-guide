@@ -52,3 +52,8 @@ artelad debug addr <YOUR_ART_ADDRESS>
 #Now, Enter Discord and recive faucet.
 
 https://discord.com/invite/artela
+
+#Click the command below to check the balance:
+
+artelad query bank balances $ARTELA_WALLET_ADDRESS   
+
