@@ -57,4 +57,6 @@ https://discord.com/invite/artela
 
 artelad query bank balances $ARTELA_WALLET_ADDRESS   
 
-#
+#To get private key for import to Metamask, just type the following command:
+
+artelad keys unsafe-export-eth-key wallet
