@@ -55,8 +55,8 @@ https://discord.com/invite/artela
 
 #Click the command below to check the balance(Instead of $ARTELA_WALLET_ADDRESS, put the wallet address that we created in the first step):
 
-artelad query bank balances $ARTELA_WALLET_ADDRESS   
+  artelad query bank balances $ARTELA_WALLET_ADDRESS   
 
 #To get private key for import to Metamask, just type the following command:
 
-artelad keys unsafe-export-eth-key wallet
+  artelad keys unsafe-export-eth-key wallet
