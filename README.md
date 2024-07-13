@@ -37,11 +37,11 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 
 #Enter the following command to check:
 
-artelad status 2>&1 | jq .SyncInfo
+  artelad status 2>&1 | jq .SyncInfo
 
 #If the movement to the front of the blocks is slow, restart the node with the following command:
 
-sudo systemctl restart artelad
+  sudo systemctl restart artelad
 
 #The blocks should now be synced!
 
