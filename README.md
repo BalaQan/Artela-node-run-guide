@@ -47,7 +47,7 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 
 #Now, with the following command and replacing the Artela wallet address, Get the EVM wallet address in EIP 55 format and copy it.
 
-artelad debug addr <YOUR_ART_ADDRESS>  
+  artelad debug addr <YOUR_ART_ADDRESS>  
 
 #Now, Enter Discord and recive faucet.
 
