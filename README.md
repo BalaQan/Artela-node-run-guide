@@ -60,3 +60,12 @@ https://discord.com/invite/artela
 #To get private key for import to Metamask, just type the following command:
 
   artelad keys unsafe-export-eth-key wallet
+
+#For add Artela network, enter the following information in your Metamask:
+
+Network Name: Artela Testnet
+New RPC URL: https://betanet-rpc1.artela.network
+ChainID: 11822
+Symbol: ART
+Block Explorer URL: https://betanet-scan.artela.network/
+
