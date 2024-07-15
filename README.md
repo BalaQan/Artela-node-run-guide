@@ -69,3 +69,6 @@ ChainID: 11822
 Symbol: ART
 Block Explorer URL: https://betanet-scan.artela.network/
 
+#Check that the node is sync with the following command:
+  
+  artelad status 2>&1 | jq .SyncInfo
