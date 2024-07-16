@@ -95,3 +95,6 @@ artelad tx staking create-validator \
 --node tcp://localhost:26657 \
 -y
 
+#Press y and enter
+
+#Note down the "hash" and validator details(name and address , ...)
