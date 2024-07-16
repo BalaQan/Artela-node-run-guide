@@ -72,3 +72,26 @@ Block Explorer URL: https://betanet-scan.artela.network/
 #Check that the node is sync with the following command:
   
   artelad status 2>&1 | jq .SyncInfo
+
+### Constructed by Validor ###
+
+#Enter the code below:
+
+artelad tx staking create-validator \
+--amount="100000000000000000uart" \
+--pubkey=$(artelad tendermint show-validator) \
+--moniker="Validator_name" \
+--website="Website_name" \
+--details="there is no gravity here" \
+--security-contact "" \
+--identity "your-keybase-id" \
+--commission-rate="0.10" \
+--commission-max-rate="0.20" \
+--commission-max-change-rate="0.01" \
+--min-self-delegation="1" \
+--gas="200000" \
+--chain-id="artela_11822-1" \
+--from=wallet \
+--node tcp://localhost:26657 \
+-y
+
