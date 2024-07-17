@@ -98,3 +98,19 @@ artelad tx staking create-validator \
 #Press y and enter
 
 #Note down the "hash" and validator details(name and address , ...)
+
+#If there is an error, use the following code:
+
+artelad tx staking edit-validator \
+--new-moniker "Validator-name" \
+--identity "" \
+--details "artela node" \
+--website "Your-Website" \
+--security-contact "" \
+--chain-id artela_11822-1 \
+--from wallet \
+--gas-adjustment 1.5 \
+--gas auto \
+--gas-prices 0.025uart \
+-y
+
