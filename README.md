@@ -116,5 +116,5 @@ artelad tx staking edit-validator \
 
 #Take a backup of these two files and keep them in place:
 
-~/.artelad/config/node_key.json
-~/.artelad/config/priv_validator_key.json
+  ~/.artelad/config/node_key.json
+  ~/.artelad/config/priv_validator_key.json
