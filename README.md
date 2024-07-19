@@ -118,3 +118,7 @@ artelad tx staking edit-validator \
 
   ~/.artelad/config/node_key.json
   ~/.artelad/config/priv_validator_key.json
+
+#Enter the following command to delegate to yourself: 
+
+artelad tx staking delegate $(artelad keys show wallet --bech val -a) 1000000000000000000uart --from wallet --chain-id artela_11822-1 --gas-adjustment 1.5 --gas auto --gas-prices 0.025uart -y
