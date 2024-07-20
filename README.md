@@ -51,7 +51,7 @@ It surpasses EVM-equivalence with superior extensibility and inter-domain intero
 
 #Now, Enter Discord and recive faucet.
 
-https://discord.com/invite/artela
+  https://discord.com/invite/artela
 
 #Click the command below to check the balance(Instead of $ARTELA_WALLET_ADDRESS, put the wallet address that we created in the first step):
 
