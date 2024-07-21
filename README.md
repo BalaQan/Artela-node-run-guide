@@ -126,3 +126,7 @@ artelad tx staking edit-validator \
 #With the following command, you can see the list of proposals:
 
   artelad query gov proposals
+
+#Vote for the active proposals by placing the Proposal number + vote "yes or no" in the code below:
+
+  artelad tx gov vote 1 yes --from wallet --chain-id artela_11822-1 --gas-adjustment 1.5 --gas auto --gas-prices 0.025uart -y
