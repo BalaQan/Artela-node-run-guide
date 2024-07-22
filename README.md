@@ -130,3 +130,7 @@ artelad tx staking edit-validator \
 #Vote for the active proposals by placing the Proposal number + vote "yes or no" in the code below:
 
   artelad tx gov vote 1 yes --from wallet --chain-id artela_11822-1 --gas-adjustment 1.5 --gas auto --gas-prices 0.025uart -y
+
+#To see the full specifications of the validator, use the following command:
+
+ artelad q staking validator $(artelad keys show wallet --bech val -a)
