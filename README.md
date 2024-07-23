@@ -134,3 +134,7 @@ artelad tx staking edit-validator \
 #To see the full specifications of the validator, use the following command:
 
  artelad q staking validator $(artelad keys show wallet --bech val -a)
+
+#And the end, fill out the form below:
+
+ https://atkty6pceir.typeform.com/to/o4359Rsd
