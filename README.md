@@ -140,3 +140,5 @@ artelad tx staking edit-validator \
  https://atkty6pceir.typeform.com/to/o4359Rsd
 
  #You can see more details in the link below:
+
+ https://artela.network/blog/artela-validator-registration-now-open
