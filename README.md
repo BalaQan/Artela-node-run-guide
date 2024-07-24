@@ -138,3 +138,5 @@ artelad tx staking edit-validator \
 #And the end, fill out the form below:
 
  https://atkty6pceir.typeform.com/to/o4359Rsd
+
+ #You can see more details in the link below:
